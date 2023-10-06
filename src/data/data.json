@@ -1,0 +1,161 @@
+[
+    {
+        "list_name": "تازه‌ها",
+        "books": [
+            {
+                "id":"1",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FI4swgK4WgxwsSNpNQP3k4wI5kSrtqiZZkZ9mOW3PvBRfu45X3vJIcsLkZ8Ats-I6h0&usqp=CAU",
+                "title": "خاطرات سفیر",
+                "price": 20000
+            },
+            {
+                "id":"2",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/9dbb08b3-f086-4cdb-8f04-2c6a7d7b43b9/edba2ddb-4fcf-4f99-bc2e-65f0ecb4894f.jpg?width=384",
+                "title": "من او",
+                "price": 25000
+            },
+            {
+                "id":"3",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/a3ef82b8-b3b0-4c9e-9b0c-b9fe6886f255/ad9918e1-0780-4d2d-8897-1d4659fea8a0.jpg?width=384",
+                "title": "نامیرا",
+                "price": 13000
+            },
+            {
+                "id":"4",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FI4swgK4WgxwsSNpNQP3k4wI5kSrtqiZZkZ9mOW3PvBRfu45X3vJIcsLkZ8Ats-I6h0&usqp=CAU",
+                "title": "نخل و نارنج",
+                "price": 56000
+            },
+            {
+                "id":"5",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/477a8c77-8577-4c7e-b777-2a876dcacfc6/659215b2-df34-438c-aa7a-39d195e6efc8.jpg?width=384",
+                "title": "چشم هایش",
+                "price": 1000
+            },
+            {
+                "id":"6",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/974471d8-0ac9-491e-a870-c314808c5257/e34af8c6-c6cf-41cb-93a6-0c7ca5881c35.jpg?width=384",
+                "title": "مدیر مدرسه",
+                "price": 54000
+            },
+            {
+                "id":"7",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/a4af980c-8628-4e82-a096-bcda4f9ee5ed/36d198f5-1d78-43c9-a8c6-215458d34818.jpg?width=384",
+                "title": "زایو",
+                "price": 60000
+            },
+            {
+                "id":"8",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/1e7e2178-64b8-4b62-98c0-39efa26f58db/101bb62f-38b8-4d67-b021-2c6602529644.jpg?width=384",
+                "title": "کتاب",
+                "price": 12300
+            }
+        ]
+    },
+    {
+        "list_name": "پرفروش‌ها",
+        "books": [
+            {
+                "id":"9",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/1156f9c3-f096-4a0e-94a1-6b975bd2d19e/2cd8af44-8b3b-4986-80be-7cb68cfedd6b.jpg?width=384",
+                "title": "قیدار",
+                "price": 4000
+            },
+            {
+                "id":"10",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/87f2f879-764e-4731-b372-2d9c107f1399/f3f30b7a-cfbd-4123-a316-ab693b561f56.jpg?width=384",
+                "title": "ارتداد",
+                "price": 23400
+            },
+            {
+                "id":"11",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/d779acd8-47e6-44fc-95c3-3c77b94046f1/0461e2d6-9ce7-478e-9e89-8d2a21e34027.jpg?width=384",
+                "title": "کمی دیرتر",
+                "price": 234000
+            },
+            {
+                "id":"12",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FI4swgK4WgxwsSNpNQP3k4wI5kSrtqiZZkZ9mOW3PvBRfu45X3vJIcsLkZ8Ats-I6h0&usqp=CAU",
+                "title": "بیوتن",
+                "price": 9000
+            },
+            {
+                "id":"13",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/5c4bedfd-cddb-40e8-b5b6-46db7c12b057/68f2dc98-8ec6-47eb-8879-416f34ae7c1a.jpg?width=384",
+                "title": "ازبه",
+                "price": 760000
+            },
+            {
+                "id":"14",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/7a16b497-9a32-483f-ab2e-0cebd9390a7e/d205d1b9-2faa-46e6-b8d8-d0f46db1f566.jpg?width=384",
+                "title": "ابن مشغله",
+                "price": 9000
+            },
+            {
+                "id":"15",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FI4swgK4WgxwsSNpNQP3k4wI5kSrtqiZZkZ9mOW3PvBRfu45X3vJIcsLkZ8Ats-I6h0&usqp=CAU",
+                "title": "تن تن و سندباد",
+                "price": 710000
+            },
+            {
+                "id":"16",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/9a87e16c-d155-4334-9b75-ddaf2919ef0e/b7ea51e1-dabd-47b3-aa93-ad5af92eae39.jpg?width=384",
+                "title": "هستی",
+                "price": 4500
+            }
+        ]
+    },
+    {
+        "list_name": "جدیدترین‌ها",
+        "books": [
+            {
+                "id":"17",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/698cbb2f-d9c8-4679-819d-561412252fe8/86b7d80a-5383-4458-a8d4-9e49497359ae.jpg?width=384",
+                "title": "ضد",
+                "price": 21000
+            },
+            {
+                "id":"18",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FI4swgK4WgxwsSNpNQP3k4wI5kSrtqiZZkZ9mOW3PvBRfu45X3vJIcsLkZ8Ats-I6h0&usqp=CAU",
+                "title": "رهش",
+                "price": 65000
+            },
+            {
+                "id":"19",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/3b05dedb-f4b8-446e-8143-3b74f294f1da/c8022461-3255-4398-938a-4e90f6809451.jpg?width=384",
+                "title": "سال بلوا",
+                "price": 8000
+            },
+            {
+                "id":"20",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/54583a36-ffe9-4ec3-ba41-044b8a6b3a23/af6963df-c11d-43c5-b0dc-5150b2a2ab7f.jpg?width=384",
+                "title": "خال سیاه عربی",
+                "price": 16000
+            },
+            {
+                "id":"21",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FI4swgK4WgxwsSNpNQP3k4wI5kSrtqiZZkZ9mOW3PvBRfu45X3vJIcsLkZ8Ats-I6h0&usqp=CAU",
+                "title": "آن سوی مرگ",
+                "price": 88000
+            },
+            {
+                "id":"22",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/296b259f-acfe-4490-9b7a-7d7fe5285451/55ea5796-3848-4031-b18f-dc55dcd01858.jpg?width=384",
+                "title": "گردان قاطرچی ها",
+                "price": 110000
+            },
+            {
+                "id":"23",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/ccd21e94-af7a-4f12-a2c0-faa38c5a1f77/0fe4823e-e640-4e87-b728-65d1d78379a3.jpg?width=384",
+                "title": "آن ها",
+                "price": 81000
+            },
+            {
+                "id":"24",
+                "image":"https://cdn.fidibo.com/phoenixpub/content/2214c92a-168d-470a-86b8-8d57d92f57fc/e756c8c4-4a2a-44c6-8a15-1126de7569a4.jpg?width=384",
+                "title": "ماه به روایت آه",
+                "price": 50000
+            }
+        ]
+    }
+]
